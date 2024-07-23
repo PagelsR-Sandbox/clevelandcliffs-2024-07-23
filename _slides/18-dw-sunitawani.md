@@ -7,3 +7,6 @@ Caption here
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
+
+Hello.
+Updating it in the web editor.
