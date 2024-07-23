@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: July 23 - 23, 2024
-- Facilitator: @pagelsr
+- Class Date: July 23 - 24, 2024
+- Facilitator: Randy Pagels - @pagelsr
 
 ## Class Resources
 
